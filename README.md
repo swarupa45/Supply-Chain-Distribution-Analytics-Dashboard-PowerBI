@@ -1,7 +1,24 @@
 # Supply-Chain-Distribution-Analytics-Dashboard-PowerBI
 A Power BI dashboard to analyze supply chain performance, delivery efficiency, and distribution metrics.
 ## Global Biscuits Supply Chain & Logistics Operations Dashboard
-<img width="1284" height="721" alt="SupplyChain and Logistics" src="https://github.com/user-attachments/assets/c8aa8744-83de-469c-bbe1-ce7fc9a6b3c7" />
+<img width="1305" height="688" alt="Executive KPI overview" src="https://github.com/user-attachments/assets/bb2b9ed5-ba37-4e6b-aaf8-1e35379417aa" />
+
+
+### 🔍 View Remaining Dashboard Pages
+<details>
+<summary><b>💡 Click here to expand and view pages 2, 3, and 4</b></summary>
+
+### Page 2: Supply Chain & Logistics Trends
+<img width="1312" height="758" alt="Supply chain and Logistic trends" src="https://github.com/user-attachments/assets/f2960030-f1a5-499c-ade7-e6b9e8fa6511" />
+
+
+### Page 3: Product Profitability & Margins
+<img width="1311" height="698" alt="Product margins" src="https://github.com/user-attachments/assets/27b1e313-ac64-4619-a63d-0d4700249bb4" />
+
+
+### Page 4: Regional & Geography Analytics
+<img width="1316" height="739" alt="Regional Analytics" src="https://github.com/user-attachments/assets/23eac42c-82e6-4a3f-afa6-7aff6a901514" />
+
 
 ## 📌 Project Overview
 Developed an enterprise-grade interactive Power BI dashboard to optimize distribution networks, reduce freight overheads, and audit product line profitability for a global biscuits manufacturing and distribution firm.
