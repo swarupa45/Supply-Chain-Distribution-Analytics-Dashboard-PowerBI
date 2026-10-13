@@ -19,6 +19,8 @@ A Power BI dashboard to analyze supply chain performance, delivery efficiency, a
 ### Page 4: Regional & Geography Analytics
 <img width="1316" height="739" alt="Regional Analytics" src="https://github.com/user-attachments/assets/23eac42c-82e6-4a3f-afa6-7aff6a901514" />
 
+</details>
+
 
 ## 📌 Project Overview
 Developed an enterprise-grade interactive Power BI dashboard to optimize distribution networks, reduce freight overheads, and audit product line profitability for a global biscuits manufacturing and distribution firm.
